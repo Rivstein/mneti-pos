@@ -1,0 +1,38 @@
+
+/* border */
+.border{
+  border:  1px solid rgb(156 163 175);
+}
+.border-t{
+  border-top:  1px solid rgb(156 163 175);
+}
+.border-b{
+  border-bottom: 1px solid rgb(156 163 175);
+}
+.border-l{
+  border-left:  1px solid rgb(156 163 175);
+}
+.border-r{
+  border-right:  1px solid rgb(156 163 175);
+}
+
+/* height */
+.h-full-screen{
+  height: 100vh;
+  min-height: 100%;
+  overflow-y: hidden;
+}
+
+/* offcanvas */
+.uk-offcanvas-close{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #222;
+}
+.offcanvas-title{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
